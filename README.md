@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Balaji 👋<br><br>- 🌱 I'm currently learning **Data Science, and Full-Stack Web Development**<br>- 🤔 I'm looking for help with **scaling ML models and deploying web applications**<br>- 📫 How to reach me: **[http://www.linkedin.com/in/pvsn-murthy-dev]**<br>- 😄 Pronouns: **He/Him**
+# Hi there, I'm Balaji 👋<br><br>- 🌱 I'm currently learning **Data Science, and Full-Stack Web Development**<br>- 🤔 I'm looking for help with learning how to develop full stack web applications**<br>- 📫 How to reach me: **[http://www.linkedin.com/in/pvsn-murthy-dev]**<br>- 😄 Pronouns: **He/Him**
 
 
 ## 🌐 Socials:
