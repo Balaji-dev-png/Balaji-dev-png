@@ -138,24 +138,6 @@ soft_skills:
 
 ---
 
-## 〔 04 〕 EDUCATION
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  🎓  Lovely Professional University · Phagwara, Punjab                   │
-│      B.Tech — Computer Science & Engineering                             │
-│      Aug 2023 – Present  ·  CGPA: 6.57                                  │
-├──────────────────────────────────────────────────────────────────────────┤
-│  📘  Narayana Junior College · Visakhapatnam, Andhra Pradesh             │
-│      Intermediate (MPC)  ·  Mar 2021 – May 2023  ·  96.6%               │
-├──────────────────────────────────────────────────────────────────────────┤
-│  📗  Sri Chaitanya School · Visakhapatnam, Andhra Pradesh                │
-│      Matriculation  ·  Mar 2020 – May 2021  ·  98.8%                    │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 〔 05 〕 TRAINING & CERTIFICATES
 
 | 🏅 Certificate | Issuer | Date |
