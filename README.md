@@ -1,55 +1,54 @@
 <!-- ============================================================ -->
-<!--        DESIGN 4 — CINEMATIC SPLIT / MAGAZINE LAYOUT         -->
+<!--           DESIGN 5 — CLEAN DEVELOPER PORTFOLIO              -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:111111&height=200&section=header&text=BALAJI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=70&rotate=-3&desc=Developer%20%C2%B7%20Creator%20%C2%B7%20Filmmaker&descSize=15&descColor=888888&descAlignY=88&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=Balaji&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Pydi%20Venkata%20Surya%20Narayana%20Murthy&descSize=16&descColor=888888&descAlignY=64" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Computer+Science+Engineer+%40+LPU+%F0%9F%8E%93;Python+%7C+Django+%7C+PostgreSQL+%7C+ReactJS;Full-Stack+Developer+in+the+Making+%F0%9F%9A%80;Data+Science+%7C+DSA+%7C+Cloud+Computing;Open+to+Collaborate+%26+Learn+%F0%9F%A4%9D" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=⬡+Python+%7C+Django+%7C+PostgreSQL+%7C+JS+%7C+TypeScript+⬡;⬡+Data+Science+Explorer+%7C+Full-Stack+Builder+⬡;⬡+CinemaWritings+—+Now+in+Active+Development+⬡;⬡+DaVinci+Resolve+%7C+Photoshop+%7C+Affinity+Suite+⬡" alt="Typing SVG" />
-
-<br/>
-
-![](https://img.shields.io/badge/-INDIA_🇮🇳-000?style=flat-square&color=111&labelColor=000&logo=&logoColor=fff)
-![](https://img.shields.io/badge/-HE%2FHIM-000?style=flat-square&color=111&labelColor=000)
-![](https://img.shields.io/badge/-OPEN_TO_COLLABORATE-000?style=flat-square&color=111&labelColor=000)
-![](https://img.shields.io/badge/-LEARNING_DAILY-000?style=flat-square&color=111&labelColor=000)
+![](https://img.shields.io/badge/LPU-B.Tech%20CSE-ffffff?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/CGPA-6.57-ffffff?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/India-🇮🇳-ffffff?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/He%2FHim-Pronouns-ffffff?style=flat-square&labelColor=111111)
 
 </div>
 
 ---
 
-## 〔 01 〕 WHO AM I
+## 〔 01 〕 ABOUT ME
 
 <table>
 <tr>
 <td width="52%" valign="top">
 
 ```yaml
-# balaji.config.yml
+# profile.yml
 
-identity:
-  name     : "Pydi Venkata Surya Narayana Murthy"
-  alias    : "Balaji"
-  location : "India 🇮🇳"
-  pronouns : "He / Him"
+name     : "Pydi Venkata Surya Narayana Murthy"
+alias    : "Balaji"
+location : "Phagwara, Punjab, India 🇮🇳"
+degree   : "B.Tech CSE @ LPU (Aug 2023 – Present)"
+cgpa     : 6.57
+email    : "shaty768@gmail.com"
+mobile   : "+91-7013915479"
+pronouns : "He / Him"
 
-currently:
-  building : "CinemaWritings 🎬"
-  learning :
-    - "Data Science"
-    - "Full-Stack Web Development"
-  seeking  : "Mentors & Collaborators"
+currently_learning:
+  - "Full-Stack Web Development"
+  - "Data Science"
+  - "React.js & Django"
 
-philosophy: >
-  Every great product starts with a
-  great story — in code or on screen.
+looking_for:
+  - "Collaborators on web projects"
+  - "Mentors in full-stack dev"
 
-contact:
-  linkedin: "pvsn-murthy-dev"
-  github  : "Balaji-dev-png"
+soft_skills:
+  - "Problem-Solving"
+  - "Adaptability"
 ```
 
 </td>
@@ -65,55 +64,55 @@ contact:
 
 ---
 
-## 〔 02 〕 CINEMAWRITINGS — ACTIVE BUILD 🎬
+## 〔 02 〕 PROJECTS
 
-<div align="center">
+### ◈ CinemaWritings &nbsp;`[ ACTIVE BUILD 🟢 ]`
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:1a1a1a&height=80&text=⬡%20CinemaWritings%20⬡&fontSize=34&fontColor=ffffff&animation=twinkling" width="85%"/>
-
-</div>
-
-> A full-stack platform for **film writers, screenwriters, and cinephiles** — built to write, discover, and share cinematic stories.
-
-<table>
-<tr>
-<td width="50%">
-
-**Tech Stack — from repo languages:**
-
-| Language | Usage |
-|:--|:--|
-| 🐍 Python | `94.5%` — Core backend |
-| 🟡 JavaScript | `3.1%` — Frontend logic |
-| 🔷 TypeScript | `1.2%` — Type-safe scripts |
-| 🟠 HTML | `0.5%` — Templates |
-| 🔵 CSS | `0.4%` — Styling |
-| ⚪ C | `0.3%` — Utilities |
-
-</td>
-<td width="50%" valign="top">
-
-**Built with:**
+> Full-stack web application — currently in active development.
 
 ![Python](https://img.shields.io/badge/Python-fff?style=flat-square&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-fff?style=flat-square&logo=django&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=flat-square&logo=postgresql&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-fff?style=flat-square&logo=typescript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-fff?style=flat-square&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-fff?style=flat-square&logo=css3&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-fff?style=flat-square&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-fff?style=flat-square&logo=css3&logoColor=black)
 
-**Status:**
+**Language breakdown from repo:** Python `94.5%` · JS `3.1%` · TypeScript `1.2%` · HTML `0.5%` · CSS `0.4%`
 
-![Status](https://img.shields.io/badge/🟢_STATUS-IN_ACTIVE_DEVELOPMENT-111?style=flat-square&color=111111&labelColor=111111&logoColor=white)
+[![View Repo](https://img.shields.io/badge/⬡_github.com/Balaji--dev--png/CinemaWritings-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Balaji-dev-png/CinemaWritings)
 
-**Repository:**
+---
 
-[![CinemaWritings](https://img.shields.io/badge/⬡_github.com/Balaji--dev--png/CinemaWritings-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Balaji-dev-png/CinemaWritings)
+### ◈ StyleHub &nbsp;`[ Feb 2026 ]`
 
-</td>
-</tr>
-</table>
+> A user-friendly online fashion store built from scratch.
+
+![Python](https://img.shields.io/badge/Python-fff?style=flat-square&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-fff?style=flat-square&logo=django&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=flat-square&logo=postgresql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML/CSS-fff?style=flat-square&logo=html5&logoColor=black)
+
+- 🛒 Built complete e-commerce flow — browse, wishlist, checkout, and saved shipping details
+- 💳 Integrated **Stripe** for secure payments with automated "Thank You" email on purchase
+- 📦 Automated **100% of inventory tracking** using Django Signals synced with Stripe confirmations
+
+[![View Repo](https://img.shields.io/badge/⬡_github.com/Balaji--dev--png/stylehub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Balaji-dev-png/stylehub)
+
+---
+
+### ◈ ToDo List &nbsp;`[ Jan 2026 ]`
+
+> High-performance task management application for daily workflows.
+
+![Python](https://img.shields.io/badge/Python-fff?style=flat-square&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-fff?style=flat-square&logo=django&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=flat-square&logo=postgresql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML/CSS-fff?style=flat-square&logo=html5&logoColor=black)
+
+- ✅ Full **CRUD** system — create, prioritize, and track tasks through their lifecycle
+- 🔐 Robust **user authentication** with 100% data isolation per user account
+- 🔍 **35% navigation efficiency boost** via dynamic search filters and status-toggle logic
 
 ---
 
@@ -121,7 +120,7 @@ contact:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,js,ts,html,css,cpp,git,github,vscode&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,js,ts,react,html,css,cpp,git,github,vscode,ubuntu&theme=dark&perline=13" />
 
 <br/><br/>
 
@@ -137,48 +136,72 @@ contact:
 **FRAMEWORKS & DATABASE**
 
 ![Django](https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-ffffff?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=black)
 
-**DESIGN & VIDEO EDITING**
+**TOOLS & PLATFORMS**
+
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-ffffff?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/MS_Excel-ffffff?style=for-the-badge&logo=microsoft-excel&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ffffff?style=for-the-badge&logo=ubuntu&logoColor=black)
+
+**DESIGN & VIDEO**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-ffffff?style=for-the-badge&logo=affinity-photo&logoColor=black)
 ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-ffffff?style=for-the-badge&logo=affinity-designer&logoColor=black)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-ffffff?style=for-the-badge&logo=davinci-resolve&logoColor=black)
 
-**TOOLS**
-
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-
 </div>
 
 ---
 
-## 〔 04 〕 LANGUAGE BREAKDOWN
+## 〔 04 〕 EDUCATION
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-dev-png&theme=github_dark&hide_border=true&layout=donut&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" width="42%"/>
-
-</div>
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  🎓  Lovely Professional University — Phagwara, Punjab                 │
+│      B.Tech in Computer Science & Engineering                          │
+│      Aug 2023 – Present  ·  CGPA: 6.57                                │
+├────────────────────────────────────────────────────────────────────────┤
+│  📘  Narayana Junior College — Visakhapatnam, AP                       │
+│      Intermediate (MPC)  ·  Mar 2021 – May 2023  ·  96.6%             │
+├────────────────────────────────────────────────────────────────────────┤
+│  📗  Sri Chaitanya School — Visakhapatnam, AP                          │
+│      Matriculation  ·  Mar 2020 – May 2021  ·  98.8%                  │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 〔 05 〕 CONTRIBUTION MAP
+## 〔 05 〕 TRAINING & CERTIFICATES
+
+| Certificate | Issuer | Period | Link |
+|:--|:--|:--|:--|
+| 🏅 Data Structures & Algorithms (C++) | Skill Development / LPU | Jun – Jul 2025 | [View](https://github.com/Balaji-dev-png) |
+| ☁️ Cloud Computing | NPTEL | Oct 2025 | [View](https://github.com/Balaji-dev-png) |
+
+**DSA Training Highlights:**
+- Strong foundation in Arrays, Linked Lists, Trees, Graphs using **C++**
+- Mastered **Big-O Notation** — Time & Space Complexity analysis
+- Applied **C++ STL** for Sorting, Searching, and Dynamic Programming
+
+---
+
+## 〔 06 〕 GITHUB STATS
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-dev-png&theme=github_dark&hide_border=true&layout=donut&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" width="40%"/>
+
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji-dev-png&bg_color=0d0d0d&color=ffffff&line=333333&point=ffffff&area_color=161616&area=true&hide_border=true&custom_title=Contribution+Timeline&title_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-
-## 〔 06 〕 TROPHIES
-
-<div align="center">
+<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=Balaji-dev-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 
@@ -190,13 +213,11 @@ contact:
 
 <div align="center">
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pvsn-murthy-dev)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Balaji-dev-png)
 &nbsp;
-[![CinemaWritings](https://img.shields.io/badge/CinemaWritings-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Balaji-dev-png/CinemaWritings)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shaty768@gmail.com)
 
 <br/>
 
@@ -206,8 +227,4 @@ contact:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:111111,100:000000&height=140&section=footer&text=%22Code%20is%20the%20screenplay.%20The%20screen%20is%20the%20product.%22&fontSize=14&fontColor=555555&fontAlignY=55&rotate=3" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
