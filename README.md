@@ -1,128 +1,161 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Balaji&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pydi%20Venkata%20Surya%20Narayana%20Murthy&descAlignY=60&descSize=18&descColor=a0a0ff" width="100%"/>
+<!-- B&W Cinematic Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=3&section=header" width="100%"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+there%2C+I'm+Balaji+%F0%9F%91%8B;Data+Science+%7C+Full-Stack+Web+Dev;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Badges row -->
-![Profile Views](https://visitcount.itsvg.in/api?id=Balaji-dev-png&icon=6&color=7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvsn-murthy-dev)
-![Pronouns](https://img.shields.io/badge/He%2FHim-%237C83FD?style=flat-square)
-
-</div>
-
----
-
-## 🌟 About Me
-
-```yaml
-name       : Pydi Venkata Surya Narayana Murthy
-alias      : Balaji
-location   : India 🇮🇳
-focus      : Data Science & Full-Stack Web Development
-learning   : Django · JavaScript · PostgreSQL · Data Science
-looking_for: Collaborators & Mentors in Full-Stack Dev
-pronouns   : He / Him
-contact    : linkedin.com/in/pvsn-murthy-dev
+```
+█▄▄ ▄▀█ █░░ ▄▀█ ░░█ █   ░░ █▀▄ █▀▀ █░█
+█▄█ █▀█ █▄▄ █▀█ █▄█ █   ██ █▄▀ ██▄ ▀▄▀
 ```
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🌱 Currently mastering **Data Science** and **Full-Stack Web Development**
-- 🤝 Open to collaboration on **web apps** and **data-driven projects**
-- 💡 Passionate about turning data into meaningful insights
-- 🎨 Also skilled in graphic design — Photoshop & Affinity Suite
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/pvsn-murthy-dev)**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Databases
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Balaji-dev-png&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-dev-png&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=7C83FD&text_color=c9d1d9" height="180"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=PYDI+VENKATA+SURYA+NARAYANA+MURTHY;DATA+SCIENTIST+IN+THE+MAKING;FULL-STACK+DEVELOPER+%7C+FILMMAKER;TURNING+IDEAS+INTO+CODE+%26+FRAMES" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Balaji-dev-png&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" width="60%"/>
+![](https://img.shields.io/badge/─────────────────────────────────────────────────────-000000?style=flat-square&labelColor=000000)
+
+`[ DATA SCIENCE ]` &nbsp; `[ FULL-STACK DEV ]` &nbsp; `[ CINEMA & DESIGN ]` &nbsp; `[ He/Him ]`
+
+![](https://img.shields.io/badge/─────────────────────────────────────────────────────-000000?style=flat-square&labelColor=000000)
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## ◈ WHO AM I
+
+```
+NAME    ░░ Balaji (PVSN Murthy)
+FROM    ░░ India 🇮🇳
+ROLE    ░░ Developer + Creator
+STATUS  ░░ Learning & Building
+FOCUS   ░░ Data Science
+          Full-Stack Web Dev
+          Cinema & Storytelling
+```
+
+- ▸ Building full-stack web applications with **Django & PostgreSQL**
+- ▸ Exploring **Data Science** — from raw data to real insight
+- ▸ Writing & directing through **CinemaWritings** 🎬
+- ▸ Crafting visuals with **Photoshop**, **Affinity**, and editing in **DaVinci Resolve**
+- ▸ He/Him · Open to collaboration & mentorship
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Balaji-dev-png&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=aaaaaa&border_color=333333" width="100%"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Balaji-dev-png&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ FEATURED PROJECT
+
+<div align="center">
+
+### 🎬 CinemaWritings
+
+> *Where code meets the screenplay. A platform for cinephiles, writers, and storytellers.*
+
+[![CinemaWritings](https://img.shields.io/badge/◈_CINEMAWRITINGS-View_Project-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/Balaji-dev-png/cinemawritings)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ◈ TECH STACK
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Balaji-dev-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+**// LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23ffffff.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%23ffffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23ffffff.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-%23ffffff.svg?style=for-the-badge&logo=css3&logoColor=black)
+
+**// FRAMEWORKS & DATABASES**
+
+![Django](https://img.shields.io/badge/Django-%23ffffff.svg?style=for-the-badge&logo=django&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ffffff.svg?style=for-the-badge&logo=postgresql&logoColor=black)
+
+**// DESIGN & VIDEO**
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%23ffffff.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-%23ffffff.svg?style=for-the-badge&logo=affinity-photo&logoColor=black)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-%23ffffff.svg?style=for-the-badge&logo=affinity-designer&logoColor=black)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-%23ffffff.svg?style=for-the-badge&logo=davinci-resolve&logoColor=black)
+
+**// TOOLS & ENVIRONMENT**
+
+![Git](https://img.shields.io/badge/Git-%23ffffff.svg?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-%23ffffff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## ◈ LANGUAGE BREAKDOWN
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvsn-murthy-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaji-dev-png)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-dev-png&theme=github_dark&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" width="50%"/>
 
 </div>
 
 ---
 
+## ◈ TROPHIES
+
 <div align="center">
 
-<!-- Snake animation (requires GitHub Actions setup — see note below) -->
-<!-- Uncomment after setting up the snake workflow:
-![Snake animation](https://github.com/Balaji-dev-png/Balaji-dev-png/blob/output/github-contribution-grid-snake-dark.svg)
--->
-
-<!-- Activity Graph -->
-[![Balaji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji-dev-png&bg_color=0d1117&color=7C83FD&line=7C83FD&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-trophy.vercel.app/?username=Balaji-dev-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
 ---
 
+## ◈ ACTIVITY
+
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji-dev-png&bg_color=000000&color=ffffff&line=555555&point=ffffff&area_color=111111&area=true&hide_border=true&custom_title=Contribution+Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-*"Code is like humor. When you have to explain it, it's bad."* ✨
+</div>
+
+---
+
+## ◈ CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pvsn-murthy-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Balaji-dev-png)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Balaji-dev-png&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<br/>
+
+```
+"Every great film begins with a great idea — so does every great app."
+                                                          — Balaji
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=3&section=footer" width="100%"/>
 
 </div>
