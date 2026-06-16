@@ -11,7 +11,6 @@
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech_CSE-LPU-white?style=flat-square&labelColor=111&color=fff)
-![](https://img.shields.io/badge/CGPA-6.57-white?style=flat-square&labelColor=111&color=fff)
 ![](https://img.shields.io/badge/India-🇮🇳-white?style=flat-square&labelColor=111&color=fff)
 ![](https://img.shields.io/badge/He%2FHim-Pronouns-white?style=flat-square&labelColor=111&color=fff)
 ![](https://img.shields.io/badge/Open_To-Collaborate-white?style=flat-square&labelColor=111&color=fff)
@@ -33,9 +32,7 @@ name     : "Pydi Venkata Surya Narayana Murthy"
 alias    : "Balaji"
 university: "LPU — Phagwara, Punjab"
 degree   : "B.Tech CSE (Aug 2023 – Present)"
-cgpa     : 6.57
 email    : "shaty768@gmail.com"
-mobile   : "+91-7013915479"
 
 currently_building:
   - "CinemaWritings (Live · May 2026) 🟢"
